@@ -1,0 +1,9 @@
+# -*- comment-start: "#" -*-
+
+#include ../lib/utils.nako3
+#end_include
+
+標準入力全部読んでテキストに代入
+
+テキストをJSONデコードしてデータに代入
+データをJSONエンコードして、それを表示
