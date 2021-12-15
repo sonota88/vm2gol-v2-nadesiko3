@@ -1,3 +1,6 @@
+なでしこ3でかんたんな自作言語のコンパイラを書いた  
+https://qiita.com/sonota88/items/54c65e97aa563009137e
+
 ```
 $ ./cnako3.sh -v
 3.2.30
