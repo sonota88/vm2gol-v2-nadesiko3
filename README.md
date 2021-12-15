@@ -10,7 +10,7 @@ cd vm2gol-v2-nadesiko3
 docker build \
   --build-arg USER=$USER \
   --build-arg GROUP=$(id -gn) \
-  -t my:nadesiko3 .
+  -t vm2gol-v2-nadesiko3:0.0.1 .
 
 ./test.sh all
 ```

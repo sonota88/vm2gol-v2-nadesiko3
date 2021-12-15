@@ -2,4 +2,4 @@
 
 docker run --rm -it \
   -v"$(pwd):/home/${USER}/work" \
-  my:nadesiko3 "$@"
+  vm2gol-v2-nadesiko3:0.0.1 "$@"
